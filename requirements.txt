@@ -1,3 +1,7 @@
 pandas
 openpyxl
 matplotlib
+pandas
+openpyxl
+matplotlib
+scikit-learn

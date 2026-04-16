@@ -1,0 +1,3 @@
+Model,MAE,RMSE,MAPE
+Naive Forecast,18890.74,31662.56,34.04
+7-Day Moving Average,20222.67,34384.59,30.37
