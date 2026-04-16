@@ -13,6 +13,13 @@ This project demonstrates:
 - Python-based time series preparation
 - baseline forecasting
 - model evaluation and visualization
+  ## Key Outputs
+
+This repository includes:
+- `outputs/forecast_vs_actual.png` → comparison of actual vs baseline forecast
+- `outputs/model_metrics.csv` → MAE, RMSE, and MAPE for the baseline model
+- `outputs/baseline_predictions.csv` → test-period predictions
+- `data/processed/monthly_sales.csv` → monthly aggregated forecasting dataset
 
 ## Dataset
 
